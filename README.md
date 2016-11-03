@@ -1,4 +1,4 @@
-# FRACTOL
+# LIBFT
 
 This project consists to create/re-code a library C standard for my next project.
 
@@ -15,7 +15,7 @@ Then execute Makefile to create the library C called libft (library function)
 ```
 make
 ```
-You could complete libft with others functions, do not forget to include prototype in `include/libft.h` and into Makefile
+You could complete your libft with others functions, do not forget to include prototype in `include/libft.h` and into `Makefile`
 
 ### Deployment
 
