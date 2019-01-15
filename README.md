@@ -1,3 +1,3 @@
 # LIBFT
 
-This project consists to re-written some function of the C standard library 
+This project consists to re-write some function of the C standard library 
